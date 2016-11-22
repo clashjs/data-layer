@@ -5,6 +5,8 @@
 3. [Relay](https://facebook.github.io/relay/)
 4. [Vuex](https://vuex.vuejs.org/en/)
 
+---
+
 - [Flux](https://facebook.github.io/flux/)
 - [RxJS](http://reactivex.io/rxjs/)
 - [Alt JS](http://alt.js.org/)
