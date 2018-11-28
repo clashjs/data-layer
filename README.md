@@ -1,14 +1,11 @@
-# State Management
+# Data Layer
 
-1. REST API
-2. [Redux](http://redux.js.org/)
-3. Firebase
-4. [GraphQL](http://facebook.github.io/graphql/October2016/)
-5. [Apollo](https://www.apollographql.com/client/)
-6. [MobX](https://mobx.js.org/)
-7. [Relay/Relay Modern](https://facebook.github.io/relay/)
-8. [Falcor](http://netflix.github.io/falcor/)
+1. [Redux](https://redux.js.org/)
+2. [GraphQL](https://graphql.org/)
+3. [Apollo](https://www.apollographql.com/)
+4. [MobX](https://mobx.js.org/)
+5. [Relay/Relay Modern](https://facebook.github.io/relay/)
 
 ---
 
-* [Vuex](https://vuex.vuejs.org/en/)
+- [Vuex](https://vuex.vuejs.org/)
