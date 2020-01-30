@@ -1,11 +1,7 @@
 # Data Layer
 
-1. [Redux](https://redux.js.org/) :fire:
-2. **[GraphQL](https://graphql.org/)** :fire:
-3. [Apollo](https://www.apollographql.com/) :fire:
-4. [MobX](https://mobx.js.org/)
-5. [Relay/Relay Modern](https://facebook.github.io/relay/)
-
----
-
-- **[Vuex](https://vuex.vuejs.org/)**
+- [Redux](https://redux.js.org/)
+- [Apollo](https://www.apollographql.com/docs/)
+- [GraphQL](https://graphql.org/)
+- [Relay](https://github.com/facebook/relay)
+- [MobX](https://mobx.js.org/)
